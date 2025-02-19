@@ -62,6 +62,10 @@
 * [4.2](ji-qi-xue-xi-shen-du-xue-xi/4.2.md)
 * [Page 2](ji-qi-xue-xi-shen-du-xue-xi/page-2.md)
 
+***
+
+* [如何使用别人开发好的任何模型](ru-he-shi-yong-bie-ren-kai-fa-hao-de-ren-he-mo-xing.md)
+
 ## 建模
 
 * [SolidWorks安装](jian-mo/solidworks-an-zhuang/README.md)
