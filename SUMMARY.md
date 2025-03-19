@@ -64,7 +64,8 @@
 
 ***
 
-* [如何使用别人开发好的任何模型](ru-he-shi-yong-bie-ren-kai-fa-hao-de-ren-he-mo-xing.md)
+* [如何使用别人开发好的任何模型](ru-he-shi-yong-bie-ren-kai-fa-hao-de-ren-he-mo-xing/README.md)
+  * [如何本地部署AI模型](ru-he-shi-yong-bie-ren-kai-fa-hao-de-ren-he-mo-xing/ru-he-ben-di-bu-shu-ai-mo-xing.md)
 
 ## 建模
 
